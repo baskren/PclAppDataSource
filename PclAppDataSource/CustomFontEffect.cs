@@ -5,7 +5,7 @@ namespace PclAppDataSource
 {
     class CustomFontEffect : RoutingEffect
     {
-        protected CustomFontEffect() : base("NetStandardDataSource.CustomFontEffect")
+        protected CustomFontEffect() : base("PclAppDataSource.CustomFontEffect")
         {
         }
 
